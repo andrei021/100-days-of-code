@@ -30,6 +30,11 @@ public class Main {
 }
 
 ```
+```
+2050 KB = 2 MB and 2 KB
+
+Process finished with exit code 0
+```
 
 
 
