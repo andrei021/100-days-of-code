@@ -8,7 +8,7 @@ The log of my #100DaysOfCode challenge. Started on [November 12, Monday, 2018].
 Completed 3 lessons in Tim's Java Masterclass on Udemy. It was my first encounter with Java methods and I got it pretty easily.
 
 ### Day 2
-I've read more about Java methods in Java For Dummies book, installed and got familiarized with DiffMerge tool and successfully done a MegaBytes Converter exercice on Udemy. Felt excited :)
+I've read more about Java methods in Java For Dummies book, installed and got familiarized with DiffMerge tool and successfully done a MegaBytes Converter exercise on Udemy. Felt excited :)
 
 ```
 public class Main {
