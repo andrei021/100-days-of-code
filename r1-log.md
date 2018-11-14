@@ -36,5 +36,8 @@ public class Main {
 Process finished with exit code 0
 ```
 
+### Day 3
+Completed 5 more exercises using methods in Java Masterclass course on Udemy.
+
 
 
