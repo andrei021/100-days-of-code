@@ -37,7 +37,7 @@ Process finished with exit code 0
 ```
 
 ### Day 3
-Completed 5 more exercises in Java Masterclass course on Udemy. I really enjoy using methods :fearful:
+Completed 5 more exercises in Java Masterclass course on Udemy. I really enjoy using methods :boom:
 
 
 
