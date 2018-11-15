@@ -52,7 +52,7 @@ Coding is fun! :stuck_out_tongue_closed_eyes:
 public class Main {
 
     public static void main(String[] args) {
-        calcFeetAndInchesToCentimeters(50);
+        calcFeetAndInchesToCentimeters(122.6);
 
     }
 
