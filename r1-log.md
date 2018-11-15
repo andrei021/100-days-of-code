@@ -39,5 +39,49 @@ Process finished with exit code 0
 ### Day 3
 Completed 5 more exercises in Java Masterclass course on Udemy. I really enjoy using methods :sunglasses:
 
+### Day 4
+Took one lesson on Udemy about method overloading. I also did a "inches to centimeters" converter by using 2 methods: one transforms the inches to feet and remaining inches and the other one takes the previous result and converts it to centimeters.
+I know I could have done it directly from inches to centimeters but that's not what the exercise asked. It 'forced' me to call a method within another method and that obviously has helped me getting a better understanding of methods.
+
+Coding is fun! stuck_out_tongue_closed_eyes
+
+```
+public class Main {
+
+    public static void main(String[] args) {
+        calcFeetAndInchesToCentimeters(50);
+
+    }
+
+    public static double calcFeetAndInchesToCentimeters(double feet, double inches) {
+        if ((feet >= 0) && ((inches >= 0) && (inches <= 12))) {
+            double cm = inches * 2.54 + feet * 12 * 2.54;
+            System.out.println(feet + " ft and " + inches + " in = " + cm + " cm");
+            return 1;
+        }
+
+        return -1;
+    }
+
+    public static double calcFeetAndInchesToCentimeters(double inches) {
+        if (inches >= 0) {
+            double feet = (int) (inches / 12);
+            double rInches = inches % 12;
+
+            System.out.println(inches + " in = " + feet + " ft and " + rInches + " in");
+            return calcFeetAndInchesToCentimeters(feet, rInches);
+        }
+
+        System.out.println("Invalid value");
+        return -1;
+    }
+
+}
+```
+
+
+
+
+
 
 
