@@ -40,7 +40,9 @@ Process finished with exit code 0
 Completed 5 more exercises in Java Masterclass course on Udemy. I really enjoy using methods :sunglasses:
 
 ### Day 4
-Took one lesson on Udemy about method overloading. I also did a "inches to centimeters" converter by using 2 methods: one transforms the inches to feet and remaining inches and the other one takes the previous result and converts it to centimeters.
+• Took one lesson on Udemy about method overloading; 
+• I also did a "inches to centimeters" converter by using 2 methods: one transforms the inches to feet and remaining inches and the other one takes the previous result and converts it to centimeters. 
+
 I know I could have done it directly from inches to centimeters but that's not what the exercise asked. It 'forced' me to call a method within another method and that obviously has helped me getting a better understanding of methods.
 
 Coding is fun! :stuck_out_tongue_closed_eyes:
