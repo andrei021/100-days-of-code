@@ -81,6 +81,12 @@ public class Main {
 
 }
 ```
+```
+50.0 in = 4.0 ft and 2.0 in
+4.0 ft and 2.0 in = 127.0 cm
+
+Process finished with exit code 0
+```
 
 
 
