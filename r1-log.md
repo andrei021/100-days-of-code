@@ -42,7 +42,7 @@ Completed 5 more exercises in Java Masterclass course on Udemy. I really enjoy u
 ### Day 4
 • Took one lesson on Udemy about method overloading;
 
-• I also did a "inches to centimeters" converter by using 2 methods: one transforms the inches to feet and remaining inches and the other one takes the previous result and converts it to centimeters. 
+• I also did a 'inches to centimeters' converter by using 2 methods: one transforms the inches to feet and remaining inches and the other one takes the previous result and converts it to centimeters. 
 
 I know I could have done it directly from inches to centimeters but that's not what the exercise asked. It 'forced' me to call a method within another method (not main :laughing:), which obviously helps me getting a better understanding of the methods.
 
@@ -87,6 +87,9 @@ public class Main {
 
 Process finished with exit code 0
 ```
+
+### Day 5
+I've done a 'seconds to hours, minutes and seconds' converter and used a constant for the first time.
 
 
 
