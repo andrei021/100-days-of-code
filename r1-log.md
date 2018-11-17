@@ -91,6 +91,9 @@ Process finished with exit code 0
 ### Day 5
 I've done a 'seconds to hours, minutes and seconds' converter and used a constant for the first time.
 
+### Day 6
+I've done the last 4 exercises of section 4 (Expressions, Statements, Code blocks, Methods and more) in Java Masterclass course.
+
 
 
 
