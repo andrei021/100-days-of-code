@@ -94,6 +94,9 @@ I've done a 'seconds to hours, minutes and seconds' converter and used a constan
 ### Day 6
 I've done the last 4 exercises of section 4 (Expressions, Statements, Code blocks, Methods and more) in Java Masterclass course.
 
+### Day 7
+I've started section 5 (Control flow statements) and learned to use switch statement. I have also done 2 exercises :aries: 
+
 
 
 
