@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - Andrei Mihai
+# #100DaysOfCode Log - Round 1 - Learning Java - Andrei Mihai
 
 The log of my #100DaysOfCode challenge. Started on [November 12, Monday, 2018].
 
