@@ -112,7 +112,7 @@ Learned the for statement and completed 2 exercises.
 • Understood how continue statement works in a loop.
 
 ### Day 10
-• Easily solved 7 more exercises by using loops;
+• Easily solved 8 more exercises by using loops;
 
 • I got the concepts pretty well and I'm looking forward to get more challenges done :smirk_cat:
 
