@@ -117,7 +117,10 @@ Learned the for statement and completed 2 exercises.
 • I got the concepts pretty well and I'm looking forward to get more challenges done :smirk_cat:
 
 ### Day 11
+• Learned to convert a string number into other data types by using a method;
+ex: ``` int number = Integer.parseInt(numberAsString); ```
 
+• I've done a 'number to words' converter. This challenge was a bit more difficult but I managed to get the job done :sunglasses:
 ```
 public class Main {
 
