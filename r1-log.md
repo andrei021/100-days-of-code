@@ -121,7 +121,9 @@ Learned the for statement and completed 2 exercises.
 
 ex: ``` int number = Integer.parseInt(numberAsString); ```
 
-• I've done a 'number to words' converter. This challenge was a bit more difficult but I managed to get the job done :sunglasses: I would have used one more method because the switch part is duplicated but the exercise obligated me to only write 3 methods (reverse, getDigitCount and numberToWords) :grimacing:
+• I've done a 'number to words' converter. This challenge was a bit more difficult but I managed to get the job done :sunglasses: 
+I would have used one more method because the switch part is duplicated but the exercise obligated me to only write 3 methods (reverse, getDigitCount and numberToWords) :grimacing:
+
 ```
 public class Main {
 
@@ -264,6 +266,15 @@ public class Main {
     }
 
 }
+```
+```
+One
+Two
+One
+Zero
+Zero
+
+Process finished with exit code 0
 ```
 
 
