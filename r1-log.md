@@ -116,6 +116,152 @@ Learned the for statement and completed 2 exercises.
 
 • I got the concepts pretty well and I'm looking forward to get more challenges done :smirk_cat:
 
+### Day 11
+
+```
+public class Main {
+
+    public static void main(String[] args) {
+        numberToWords(120100);
+
+    }
+
+    public static int reverse(int number) {
+        int reverseNumber = 0;
+
+        while (number != 0) {
+            reverseNumber = (reverseNumber * 10) + (number % 10);
+            number /= 10;
+        }
+
+        return reverseNumber;
+    }
+
+    public static int getDigitCount(int number) {
+        if(number < 0) {
+            return -1;
+        }
+
+        int count = 0;
+
+        while (number != 0) {
+            count++;
+            number /= 10;
+        }
+        if (count == 0) {
+            return 1;
+        } else {
+            return count;
+        }
+    }
+
+    public static void numberToWords(int number) {
+        if (number < 0) {
+            System.out.println("Invalid Value");
+        } else if (number == 0) {
+            System.out.println("Zero");
+        } else {
+            int numberDigits = getDigitCount(number);
+            int numberReverse = reverse(number);
+            int numberDigitsRevers = getDigitCount(numberReverse);
+
+            if (numberDigits == numberDigitsRevers) {
+                while (numberReverse != 0) {
+                    for (int i = 0; i <= 9; i++) {
+                        if (i == numberReverse % 10) {
+                            switch (i) {
+                                case 0:
+                                    System.out.println("Zero");
+                                    break;
+                                case 1:
+                                    System.out.println("One");
+                                    break;
+                                case 2:
+                                    System.out.println("Two");
+                                    break;
+                                case 3:
+                                    System.out.println("Three");
+                                    break;
+                                case 4:
+                                    System.out.println("Four");
+                                    break;
+                                case 5:
+                                    System.out.println("Five");
+                                    break;
+                                case 6:
+                                    System.out.println("Six");
+                                    break;
+                                case 7:
+                                    System.out.println("Seven");
+                                    break;
+                                case 8:
+                                    System.out.println("Eight");
+                                    break;
+                                case 9:
+                                    System.out.println("Nine");
+                                    break;
+                            }
+                        }
+                    }
+
+                    numberReverse /= 10;
+                }
+            } else {
+                int difDigits = numberDigits - numberDigitsRevers;
+
+                while (numberReverse != 0) {
+                    for (int i = 1; i <= 9; i++) {
+                        if (i == numberReverse % 10) {
+                            switch (i) {
+                                case 0:
+                                    System.out.println("Zero");
+                                    break;
+                                case 1:
+                                    System.out.println("One");
+                                    break;
+                                case 2:
+                                    System.out.println("Two");
+                                    break;
+                                case 3:
+                                    System.out.println("Three");
+                                    break;
+                                case 4:
+                                    System.out.println("Four");
+                                    break;
+                                case 5:
+                                    System.out.println("Five");
+                                    break;
+                                case 6:
+                                    System.out.println("Six");
+                                    break;
+                                case 7:
+                                    System.out.println("Seven");
+                                    break;
+                                case 8:
+                                    System.out.println("Eight");
+                                    break;
+                                case 9:
+                                    System.out.println("Nine");
+                                    break;
+                            }
+                        }
+                    }
+
+                    numberReverse /= 10;
+                }
+
+                for (int i = 1; i <= difDigits; i++) {
+                    System.out.println("Zero");
+                }
+            }
+        }
+
+
+    }
+
+}
+```
+
 
 
 
