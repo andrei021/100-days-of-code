@@ -241,6 +241,12 @@ Zero
 Process finished with exit code 0
 ```
 
+### Day 12
+• I revised everything I learned in Java Masterclass course;
+• Solved 2 exercises;
+• It's getting harder :arrow_right: challenge accepted :smirk_cat:
+
+
 
 
 
