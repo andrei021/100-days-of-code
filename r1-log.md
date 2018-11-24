@@ -248,6 +248,11 @@ Process finished with exit code 0
 
 • It's getting harder :arrow_right: challenge accepted :smirk_cat:
 
+### Day 13
+• Completed 1 exercise;
+
+• Learned how to read user's input.
+
 
 
 
