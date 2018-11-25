@@ -253,6 +253,9 @@ Process finished with exit code 0
 
 • Learned how to read user's input.
 
+### Day 14
+• Completed one more challenge and finished section 5 (Control Flow Statements).
+
 
 
 
