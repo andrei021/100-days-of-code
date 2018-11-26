@@ -256,6 +256,12 @@ Process finished with exit code 0
 ### Day 14
 • Completed one more challenge and finished section 5 (Control Flow Statements).
 
+### Day 15
+• Started section 6 in Java Masterclass course (OOP Part 1, Classes, Constructors and Inheritance);
+
+• Understood the basics of classes and objects;
+
+• It sounds interesting to me!! Can't wait to gain more knowledge :octocat:
 
 
 
