@@ -264,7 +264,7 @@ Process finished with exit code 0
 • It sounds interesting to me!! Can't wait to gain more knowledge :octocat:
 
 ### Day 16
-• I've read more about classes and objects in Java for Dummies book;
+• I've read more about classes and objects in Java for Dummies book and in Oracle's Java Documentation;
 
 • Learned how to use class constructors and how to set different values or default values to the fields of an object  :wrench:
 
