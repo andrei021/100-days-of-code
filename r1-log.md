@@ -266,7 +266,7 @@ Process finished with exit code 0
 ### Day 16
 • I've read more about classes and objects in Java for Dummies book;
 
-• Learned how to use class constructors and how to set different values or default values to the fields of an object :wrench:
+• Learned how to use class constructors and how to set different values or default values to the fields of an object  :wrench:
 
 • Completed one challenge.
 
