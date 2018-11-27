@@ -259,9 +259,16 @@ Process finished with exit code 0
 ### Day 15
 • Started section 6 in Java Masterclass course (OOP Part 1, Classes, Constructors and Inheritance);
 
-• Understood the basics of classes and objects;
+• Understood the basics of classes and objects + played around with getters and setters :laughing:
 
 • It sounds interesting to me!! Can't wait to gain more knowledge :octocat:
+
+### Day 16
+• I've read more about classes and objects in Java for Dummies book;
+
+• Learned how to use constructors and how to set different values or default values :wrench:
+
+• Completed one challenge.
 
 
 
