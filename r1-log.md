@@ -273,7 +273,9 @@ Process finished with exit code 0
 ### Day 17
 • Revised some concepts by reading Oracle's Java Doc;
 
-• Completed one lesson about inheritance.
+• Completed one lesson about inheritance;
+
+• Learned how to override methods.
 
 
 
