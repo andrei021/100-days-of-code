@@ -270,6 +270,11 @@ Process finished with exit code 0
 
 • Completed one challenge.
 
+### Day 17
+• Revised some concepts by reading Oracle's Java Doc;
+
+• Completed one lesson about inheritance.
+
 
 
 
