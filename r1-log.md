@@ -277,6 +277,10 @@ Process finished with exit code 0
 
 • Learned how to override methods.
 
+### Day 18
+• Completed one more lesson about inheritance;
+
+• Learned what ```super``` keyword does.
 
 
 
