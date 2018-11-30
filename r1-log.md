@@ -282,7 +282,10 @@ Process finished with exit code 0
 
 • Learned what ```super``` keyword does.
 
+### Day 19
+• Learned about references to objects and understood how they work;
 
+• I've read more about ```this()```, ```super()``` methods and constructor chaining :nut_and_bolt:
 
 
 
