@@ -287,5 +287,9 @@ Process finished with exit code 0
 
 • I've read more about ```this()```, ```super()``` methods and constructor chaining :nut_and_bolt:
 
+### Day 20
+• Recaped method overloading and overriding;
+
+• Learned the difference between static and instance methods, respectively between static and instance variables.
 
 
