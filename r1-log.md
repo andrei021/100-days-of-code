@@ -292,4 +292,7 @@ Process finished with exit code 0
 
 • Learned the difference between static and instance methods, respectively between static and instance variables.
 
+### Day 21
+• Finished section 6 in Java Masterclass course (OOP Part 1, Classes, Constructors and Inheritance).
+
 
