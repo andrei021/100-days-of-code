@@ -295,4 +295,7 @@ Process finished with exit code 0
 ### Day 21
 • Finished section 6 in Java Masterclass course (OOP Part 1, Classes, Constructors and Inheritance).
 
+### Day 22
+• Recaped all Java concepts that I've learned.
+
 
