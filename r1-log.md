@@ -257,7 +257,7 @@ Process finished with exit code 0
 • Completed one more challenge and finished section 5 (Control Flow Statements).
 
 ### Day 15
-• Started section 6 in Java Masterclass course (OOP Part 1, Classes, Constructors and Inheritance);
+• Started section 6 in Java Masterclass course (OOP Part 1 - Classes, Constructors and Inheritance);
 
 • Understood the basics of classes and objects + played around with getters and setters :laughing:
 
@@ -293,9 +293,13 @@ Process finished with exit code 0
 • Learned the difference between static and instance methods, respectively between static and instance variables.
 
 ### Day 21
-• Finished section 6 in Java Masterclass course (OOP Part 1, Classes, Constructors and Inheritance).
+• Finished section 6 in Java Masterclass course (OOP Part 1 - Classes, Constructors and Inheritance).
 
 ### Day 22
 • Recaped all Java concepts that I've learned.
 
+### Day 23
+• Started section 7 in Java Masterclass course (OOP Part 2 - Composition, Encapsulation and Polymorphism);
+
+• Completed 1 lesson about Composition  :smirk_cat:
 
