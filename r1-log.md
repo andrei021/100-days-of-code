@@ -303,3 +303,10 @@ Process finished with exit code 0
 
 • Completed 1 lesson about Composition  :smirk_cat:
 
+### Day 24
+• Completed 1 more lesson about Composition and 1 challenge;
+
+• Understood the difference between 'Is-a' and 'Has-a' relationships.
+
+• I'm really curious about Codewars. Feeling like I need more challenges to strenghten my knowledge.. I'll go for it after I learn arrays :bowtie:
+
