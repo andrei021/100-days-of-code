@@ -311,5 +311,10 @@ Process finished with exit code 0
 • I'm really curious about Codewars. Feeling like I need more challenges to strenghten my knowledge.. I'll go for it after I learn arrays :bowtie:
 
 ### Day 25
-• Learned what encapsulation is.
+• Learned what encapsulation is;
+
+• I was using it before knowing what it is.
+
+### Day 26
+• Completed 1 encapsulation challenge :smirk_cat:
 
