@@ -318,3 +318,6 @@ Process finished with exit code 0
 ### Day 26
 • Completed 1 encapsulation challenge :smirk_cat:
 
+### Day 27
+• Completed 1 lesson about the concept of polymorphism. 
+
