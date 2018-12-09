@@ -321,3 +321,6 @@ Process finished with exit code 0
 ### Day 27
 • Completed 1 lesson about the concept of polymorphism. 
 
+### Day 28
+• Completed 1 polymorphism challenge.
+
