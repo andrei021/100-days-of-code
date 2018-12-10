@@ -324,3 +324,6 @@ Process finished with exit code 0
 ### Day 28
 • Completed 1 polymorphism challenge.
 
+### Day 29
+• Started the last challenge of OOP section in Java Masterclass course.
+
