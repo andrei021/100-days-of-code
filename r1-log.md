@@ -327,3 +327,6 @@ Process finished with exit code 0
 ### Day 29
 • Started the last challenge of OOP section in Java Masterclass course.
 
+### Day 30
+• Finished the challenge and the section 7 in the course (OOP Part 2 - Composition, Encapsulation and Polymorphism).
+
