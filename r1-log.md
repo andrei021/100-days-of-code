@@ -332,3 +332,6 @@ Process finished with exit code 0
 
 ### Day 31
 • Missed this day :confused:
+
+### Day 32
+• Did the last challenge again in order to get a better understanding of the concepts.
