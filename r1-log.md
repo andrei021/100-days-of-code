@@ -330,3 +330,5 @@ Process finished with exit code 0
 ### Day 30
 • Finished the challenge and the section 7 in the course (OOP Part 2 - Composition, Encapsulation and Polymorphism).
 
+### Day 31
+• Missed this day :sad:
