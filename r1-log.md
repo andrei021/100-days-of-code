@@ -341,4 +341,4 @@ Process finished with exit code 0
 
 • Started section 8 (Arrays, Java inbuilt Lists, Autoboxing and Unboxing);
 
-• Took a lesson about Arrays.
+• Completed a lesson about arrays.
