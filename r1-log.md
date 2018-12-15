@@ -337,4 +337,8 @@ Process finished with exit code 0
 • Did the last challenge again in order to get a better understanding of the concepts.
 
 ### Day 33
-• Recaped all the things that I've learned.
+• Recaped all the things that I've learned;
+
+• Started section 8 (Arrays, Java inbuilt Lists, Autoboxing and Unboxing);
+
+• Took a lesson about Arrays.
