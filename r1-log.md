@@ -342,3 +342,10 @@ Process finished with exit code 0
 • Started section 8 (Arrays, Java inbuilt Lists, Autoboxing and Unboxing);
 
 • Completed a lesson about arrays.
+
+### Day 34
+• Read about arrays in Oracle's Java docs;
+
+• Completed 1 challenge, had to sort an array;
+
+• Used some useful in built methods.
