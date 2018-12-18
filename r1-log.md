@@ -349,3 +349,11 @@ Process finished with exit code 0
 • Completed 1 challenge, had to get an array from the console and sort it;
 
 • Used some useful in built methods.
+
+### Day 35
+• Recaped arrays.
+
+### Day 36
+• Completed a lesson about differences between reference types and value types;
+
+• Solved an exercise.
