@@ -361,7 +361,7 @@ Process finished with exit code 0
 ### Day 37
 • Solved an exercise;
 
-• Learned about ArrayList.
+• Learned about Array Lists.
 
 ### Day 38
 • Used some useful in built functions.
@@ -369,7 +369,8 @@ Process finished with exit code 0
 • Made a mini grocery list application, it was fun :bowtie:
 
 • Here are the commands you can use in the app:
-```Press 
+```
+Press 
 	 0 - To print choice options.
 	 1 - To print the list of grocery items.
 	 2 - To add an item to the list.
