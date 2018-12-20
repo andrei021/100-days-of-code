@@ -357,3 +357,25 @@ Process finished with exit code 0
 • Completed a lesson about differences between reference types and value types;
 
 • Solved an exercise.
+
+### Day 37
+• Solved an exercise;
+
+• Learned about ArrayList.
+
+### Day 38
+• Used some useful in built functions.
+
+• Made a mini grocery list application, it was fun :bowtie:
+
+• Here are the commands you can use in the app:
+```Press 
+	 0 - To print choice options.
+	 1 - To print the list of grocery items.
+	 2 - To add an item to the list.
+	 3 - To modify an item in the list.
+	 4 - To remove an item from the list.
+	 5 - To search for an item in the list.
+	 6 - To quit the application.
+Enter your choice 
+```
