@@ -381,4 +381,4 @@ Press
 Enter your choice 
 ```
 ### Day 39
-• Did the last challenge again in order to consolidade my knowledge :smirk_cat:
+• Did the last challenge from scratch again in order to consolidade my knowledge :smirk_cat:
