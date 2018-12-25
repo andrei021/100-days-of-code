@@ -395,6 +395,6 @@ Enter your choice
 • Did the challenge once again in order to get a better understanding of array lists :innocent:
 
 ### Day 43
-• Learned about the concept of auto boxing and unboxing :truck:
+• Learned about the concept of auto boxing and unboxing ☐
 
 • Merry Christmas!! :santa: :christmas_tree: :gift:
