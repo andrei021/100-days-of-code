@@ -382,3 +382,14 @@ Enter your choice
 ```
 ### Day 39
 • Did the last challenge from scratch again in order to consolidade my knowledge :smirk_cat:
+
+### Day 40
+• Started a mini 'mobile phone' app. 
+
+### Day 41
+• Finished the challenge;
+
+• Used a factory method.
+
+### Day 42
+• Did the challenge once again in order to get a better understanding :innocent:
