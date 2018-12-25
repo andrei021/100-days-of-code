@@ -392,4 +392,7 @@ Enter your choice
 • Used a factory method.
 
 ### Day 42
-• Did the challenge once again in order to get a better understanding :innocent:
+• Did the challenge once again in order to get a better understanding of array lists :innocent:
+
+### Day 43
+• Didn't code today.. It's Christmas!! :santa: :christmas_tree: :gift:
