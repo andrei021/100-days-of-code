@@ -398,3 +398,6 @@ Enter your choice
 • Learned about the concept of auto boxing and unboxing :truck:
 
 • Merry Christmas!! :santa: :christmas_tree: :gift:
+
+### Day 44
+• Built a mini banking app.
