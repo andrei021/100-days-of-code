@@ -401,3 +401,6 @@ Enter your choice
 
 ### Day 44
 • Built a mini banking app.
+
+### Day 45
+• Learned about linked lists. They seem a little complicated.
