@@ -404,3 +404,8 @@ Enter your choice
 
 ### Day 45
 • Learned about linked lists. They seem a little complicated.
+
+### Day 46
+• Learned how to use list iterators and how to control the pointing direction in a linked list :arrows_counterclockwise:
+
+• Built a mini app.
