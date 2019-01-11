@@ -403,7 +403,7 @@ Enter your choice
 • Built a mini banking app.
 
 ### Day 45
-• Learned about linked lists. They seem a little complicated.
+• Learned about linked lists. They seem a bit complicated.
 
 ### Day 46
 • Learned how to use list iterators and how to control the pointing direction in a linked list :arrows_counterclockwise:
