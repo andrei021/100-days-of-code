@@ -409,3 +409,6 @@ Enter your choice
 • Learned how to use list iterators and how to control the pointing direction in a linked list :arrows_counterclockwise:
 
 • Built a mini app.
+
+### Day 47
+• Built a mini song app bt using linked lists.
