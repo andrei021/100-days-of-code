@@ -415,3 +415,9 @@ Enter your choice
 
 ### Day 48
 • Finished section 8 (Arrays, Java inbuilt Lists, Autoboxing and Unboxing).
+
+### Day 49
+• Started section 9 (Inner and Abstract Classes & Interfaces);
+
+• Completed 2 lessons about interfaces.
+
