@@ -421,3 +421,5 @@ Enter your choice
 
 • Completed 2 lessons about interfaces.
 
+### Day 50
+• Completed a challenge;
