@@ -411,7 +411,7 @@ Enter your choice
 • Built a mini app.
 
 ### Day 47
-• Built a mini song app bt using linked lists.
+• Built a mini song app by using linked lists.
 
 ### Day 48
 • Finished section 8 (Arrays, Java inbuilt Lists, Autoboxing and Unboxing).
