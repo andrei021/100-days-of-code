@@ -1,4 +1,4 @@
-# #100DaysOfCode - Round 1 - Learning Java :coffee: ------- Andrei Mihai 
+# #100DaysOfCode - Round 1 - Learning Java :coffee: --------- Andrei Mihai 
 
 The log of my #100DaysOfCode challenge. Started on [November 12, Monday, 2018].
 
