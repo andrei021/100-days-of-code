@@ -425,4 +425,5 @@ Enter your choice
 • Completed a challenge;
 
 ### Day 51
-• Started learning about inner classes (nonstatic nested classes).
+• Started learning about inner classes (nonstatic nested classes) :coffee:
+
