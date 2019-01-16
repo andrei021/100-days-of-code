@@ -423,3 +423,6 @@ Enter your choice
 
 ### Day 50
 • Completed a challenge;
+
+### Day 51
+• Started learning about inner classes (nonstatic nested classes).
