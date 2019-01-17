@@ -427,3 +427,7 @@ Enter your choice
 ### Day 51
 • Started learning about inner classes (nonstatic nested classes) :coffee:
 
+### Day 52
+• I've read more about nested classes in Oracle's Java docs;
+
+• Tried to understand Local and Anonymous classes but it didn't go too well, gonna search them in Oracle's docs :rage: challenge accepted!!!
