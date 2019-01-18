@@ -431,3 +431,8 @@ Enter your choice
 • I've read more about nested classes in Oracle's Java docs;
 
 • Tried to understand Local and Anonymous classes but it didn't go too well, gonna search them in Oracle's docs :rage: challenge accepted!!!
+
+### Day 53
+• Recaped all the concepts that I've learned so far;
+
+• I've read about nested classes in Oracle's docs and got a better understanding of these concepts. 
