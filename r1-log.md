@@ -436,3 +436,6 @@ Enter your choice
 • Recaped all the concepts that I've learned so far;
 
 • I've read about nested classes in Oracle's docs and got a better understanding of these concepts. 
+
+### Day 54
+• Completed a challenge and I feel like I understand better and better inner classes :smirk_cat:
