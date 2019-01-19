@@ -1,6 +1,7 @@
 # -----#100DaysOfCode - Round 1 - Learning Java :coffee: -----  
 
 The log of my #100DaysOfCode challenge. Started on [November 12, Monday, 2018].
+Main course: Tim's Java Masterclass on Udemy
 
 ## Log
 
