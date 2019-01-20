@@ -441,3 +441,6 @@ Enter your choice
 
 ### Day 54
 • Completed a challenge and I feel like I understand better and better inner classes :smirk_cat:
+
+### Day 55
+• Learned about abstract classes, methods and the difference between abstract classes and interfaces.
