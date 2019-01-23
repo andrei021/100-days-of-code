@@ -444,3 +444,6 @@ Enter your choice
 
 ### Day 55
 • Learned about abstract classes, methods and the difference between abstract classes and interfaces.
+
+### Day 56
+• Tried to understand the binary search tree but didnt go too well :rage: giving up is not an option :aries:
