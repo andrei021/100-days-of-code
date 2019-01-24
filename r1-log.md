@@ -451,5 +451,5 @@ Enter your choice
 ### Day 57
 • I've done a challenge and created my own LinkedList (not the Java in-built one) and used abstract classes. Got it much better than yesterday;
 
-• Looking forward to build the same thing but using the binary search tree instead  :deciduous_tree
+• Looking forward to build the same thing but using the binary search tree instead  :deciduous_tree:
 
