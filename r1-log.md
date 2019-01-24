@@ -447,3 +447,9 @@ Enter your choice
 
 ### Day 56
 • Tried to understand the binary search tree but didnt go too well :rage: giving up is not an option :aries:
+
+### Day 57
+• I've done a challenge and created my own LinkedList (not the Java in-built one) and used abstract classes. Got it much better than yesterday;
+
+• Looking forward to build the same thing but using the binary search tree instead  :deciduous_tree
+
