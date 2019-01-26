@@ -454,3 +454,8 @@ Enter your choice
 • Looking forward to build the same thing by using the binary search tree instead  :deciduous_tree:
 
 • Had my first encounter with a recursive method :recycle:
+
+### Day 58
+• Read more about protected access modifier;
+
+• Did the last challenge one more time.
