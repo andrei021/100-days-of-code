@@ -459,3 +459,8 @@ Enter your choice
 • Read more about protected access modifier;
 
 • Did the last challenge one more time.
+
+### Day 59
+• Worked a bit more with the binary search tree but didn't understand it fully;
+
+• Finished section 9 (Inner and Abstract Classes & Interfaces) and started section 10 (Java Generics).
