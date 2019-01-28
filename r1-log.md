@@ -464,3 +464,10 @@ Enter your choice
 • Worked a bit more with the binary search tree but didn't understand it fully;
 
 • Finished section 9 (Inner and Abstract Classes & Interfaces) and started section 10 (Java Generics).
+
+### Day 60
+• Completed section 10;
+
+• I've read more about Java Generics in Oracle's docs;
+
+• Learned how to use (bounded) type parameters and built a mini-project in which I had to create generic classes :parking:
