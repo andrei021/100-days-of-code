@@ -468,6 +468,8 @@ Enter your choice
 ### Day 60
 • Completed section 10;
 
-• I've read more about Java Generics in Oracle's docs;
+• I've read more about Java Generics in Oracle's docs; 
+
+• Fixing compile-time errors is easier than fixing runtime errors :wink:
 
 • Learned how to use (bounded) type parameters and built a mini-project in which I had to create generic classes :parking:
