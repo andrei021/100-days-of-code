@@ -99,7 +99,7 @@ I've done the last 4 exercises of section 4 (Expressions, Statements, Code block
 ### Day 7
 • I've started section 5 (Control flow statements) and learned to use the switch statement;
 
-• Undestood what break statement does;
+• Understood what break statement does;
 
 • I have also done 2 exercises :aries: 
 
