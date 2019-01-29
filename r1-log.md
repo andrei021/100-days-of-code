@@ -473,3 +473,12 @@ Enter your choice
 • Fixing compile-time errors is easier than fixing runtime errors :wink:
 
 • Learned how to use (bounded) type parameters and built a mini-project in which I had to create generic classes :parking:
+
+### Day 61
+• Did my first 2 challenges on CodeWars today;
+
+• Learned how to test solutions on my IDE;
+
+• Searched in Java API some functions by myself for the first time;
+
+• I feel like I'm improving myself and I'm pretty excited, but I know there is so much left to learn :desktop:
