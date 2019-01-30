@@ -482,3 +482,6 @@ Enter your choice
 • Searched in Java API some functions by myself for the first time;
 
 • I feel like I'm improving myself and I know there is so much left to learn. That's pretty exciting :joystick:
+
+### Day 62
+• Completed 2 more challenges on CodeWars.
