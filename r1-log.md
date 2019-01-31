@@ -485,3 +485,10 @@ Enter your choice
 
 ### Day 62
 • Completed 2 more challenges on CodeWars.
+
+### Day 63
+• I've done 3 CodeWars challenges;
+
+• Started section 11 (Naming Conventions and Packages. static and final keywords);
+
+• Learned about naming conventions.
