@@ -496,4 +496,6 @@ Enter your choice
 ### Day 64
 • Completed 3 lessons about packages;
 
-• Learned how to create my own package.
+• Learned how to create my own package;
+
+• Did 1 challenge;
