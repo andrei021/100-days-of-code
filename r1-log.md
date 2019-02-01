@@ -492,3 +492,8 @@ Enter your choice
 • Started section 11 (Naming Conventions and Packages. static and final keywords);
 
 • Learned about naming conventions.
+
+### Day 64
+• Completed 3 lessons about packages;
+
+• Learned how to create my own package.
