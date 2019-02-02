@@ -499,3 +499,6 @@ Enter your choice
 • Learned how to create my own package;
 
 • Did 1 challenge;
+
+### Day 65
+• I've done 2 CodeWars challenges today.
