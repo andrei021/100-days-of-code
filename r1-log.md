@@ -502,3 +502,6 @@ Enter your choice
 
 ### Day 65
 • I've done 2 CodeWars challenges today.
+
+### Day 66
+• Learned about scope and visibility;
