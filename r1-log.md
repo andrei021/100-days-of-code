@@ -505,3 +505,10 @@ Enter your choice
 
 ### Day 66
 • Learned about scope and visibility;
+
+### Day 67
+• Completed a few lessons about access modifiers, static and final keywords;
+
+• Learned about static initialization blocks;
+
+• Finished section 11 (Naming Conventions and Packages. static and final keywords) in Tim's Java Masterclass on Udemy.
