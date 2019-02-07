@@ -512,3 +512,6 @@ Enter your choice
 • Learned about static initialization blocks;
 
 • Finished section 11 (Naming Conventions and Packages. static and final keywords) in Tim's Java Masterclass on Udemy.
+
+### Day 68
+• Recaped all the concepts that I've learned in Tim's Java Masterclass.
