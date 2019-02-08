@@ -515,3 +515,6 @@ Enter your choice
 
 ### Day 68
 • Recaped all the concepts that I've learned in Tim's Java Masterclass.
+
+### Day 69
+• Did one CodeWars challenge today.
