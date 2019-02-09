@@ -518,3 +518,8 @@ Enter your choice
 
 ### Day 69
 • Did one CodeWars challenge today.
+
+### Day 70
+• Started section 12 (Java Collections);
+
+• Completed 2 CodeWars challenges.
