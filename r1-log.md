@@ -527,4 +527,8 @@ Enter your choice
 ### Day 71
 • Completed a lesson about binary search using collections framework;
 
-• Understood why this is the fastest way to find an element in a sorted list.
+• Understood why this is the fastest way to find an element in a sorted list;
+
+• Used a few collections list methods;
+
+• I've read about collections interfaces in Oracle's Docs  :star:
