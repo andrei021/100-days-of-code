@@ -523,3 +523,8 @@ Enter your choice
 • Started section 12 (Java Collections);
 
 • Completed 2 CodeWars challenges.
+
+### Day 71
+• Completed a lesson about binary search using collections framework;
+
+• Understood why this is the fastest way to find an element in a sorted list.
