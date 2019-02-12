@@ -532,3 +532,6 @@ Enter your choice
 • Used a few collections list methods;
 
 • I've read about collections interfaces in Oracle's Docs  :star:
+
+### Day 72
+• Learned about Comparable and Comparator interfaces.
