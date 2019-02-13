@@ -539,4 +539,4 @@ Enter your choice
 ### Day 73
 • Searched more info about Comparator and Comparable interfaces, got a better understanding and saw the difference between them;
 
-• Completed a CodeWars challenge :yum:	
+• Completed 2 CodeWars challenges :yum:	
