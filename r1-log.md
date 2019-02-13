@@ -535,3 +535,8 @@ Enter your choice
 
 ### Day 72
 • Learned about Comparable and Comparator interfaces.
+
+### Day 73
+• Searched more info about Comparator and Comparable interfaces, got a better understanding and learned the difference between them;
+
+• Completed a CodeWars challenge :yum:	
