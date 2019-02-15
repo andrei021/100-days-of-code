@@ -540,3 +540,8 @@ Enter your choice
 • Searched more info about Comparator and Comparable interfaces, got a better understanding and saw the difference between them;
 
 • Completed 2 CodeWars challenges :yum:	
+
+### Day 74
+• Going on a trip for the next 3 days, so I'll try to do 2 CodeWars challenges per day;
+
+• 2 challenges :white_check_mark:
