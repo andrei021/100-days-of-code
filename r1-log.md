@@ -545,3 +545,7 @@ Enter your choice
 • Going on a trip for the next 3 days, so I'll try to do 2 CodeWars challenges per day;
 
 • 2 challenges :white_check_mark:
+
+
+### Day 75
+• I only completed 1 challenge, too tired..
