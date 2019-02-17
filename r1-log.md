@@ -549,3 +549,6 @@ Enter your choice
 
 ### Day 75
 • I only completed 1 challenge, too tired..
+
+### Day 76
+• 2 challenges completed :white_check_mark:
