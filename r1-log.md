@@ -552,3 +552,6 @@ Enter your choice
 
 ### Day 76
 • 2 challenges completed :white_check_mark:
+
+### Day 77
+• Tried to find a solution to a challenge, I think I'm gonna solve it tomorrow.
