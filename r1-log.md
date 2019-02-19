@@ -561,4 +561,4 @@ Enter your choice
 ### Day 78
 • Solved the challenge;
 
-• Started learning about Map interface :map:
+• Started learning about Map interface :white_sun_rain:
