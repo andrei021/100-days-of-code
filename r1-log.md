@@ -562,3 +562,5 @@ Enter your choice
 • Solved the challenge;
 
 • Started learning about Map interface  :information_source:
+
+https://www.codewars.com/users/andrei021/badges/large
