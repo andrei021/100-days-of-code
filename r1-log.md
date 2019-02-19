@@ -553,5 +553,12 @@ Enter your choice
 ### Day 76
 • 2 challenges completed :white_check_mark:
 
+• Leveled up on CodeWars.
+
 ### Day 77
 • Tried to find a solution to a challenge, I think I'm gonna solve it tomorrow.
+
+### Day 78
+• Solved the challenge;
+
+• Started learning about Map interface :map:
