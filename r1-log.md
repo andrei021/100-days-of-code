@@ -563,3 +563,6 @@ Enter your choice
 
 • Started learning about Map interface  :information_source:
 
+### Day 79
+• Started a challenge based on the original colossal cave adventure game, practicing maps.
+
