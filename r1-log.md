@@ -566,3 +566,6 @@ Enter your choice
 ### Day 79
 • Started a challenge based on the original colossal cave adventure game, practicing maps.
 
+### Day 80
+• Continued the challenge, I've put exits to each room :+1:
+
