@@ -569,3 +569,7 @@ Enter your choice
 ### Day 80
 • Continued the challenge, I've put exits to each room :+1:
 
+### Day 81
+• Learned how to make a class immutable;
+
+• Looking forward to read about this topic in Oracle's docs too.
