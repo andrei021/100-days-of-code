@@ -573,3 +573,6 @@ Enter your choice
 • Learned how to make a class immutable;
 
 • Looking forward to read about this topic in Oracle's docs too.
+
+### Day 82
+• I've read 'A strategy for defining immutable objects' and took notes.
