@@ -576,3 +576,8 @@ Enter your choice
 
 ### Day 82
 • I've read 'A strategy for defining immutable objects' and took notes.
+
+### Day 83
+• Completed a few lessons about Set interface;
+
+• Understood why should I override equals() and hashCode() methods if I use my own objects as either a key in a Map or as a element in a Set.
