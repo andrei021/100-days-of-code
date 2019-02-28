@@ -581,3 +581,6 @@ Enter your choice
 • Completed a few lessons about Set interface;
 
 • Understood why should I override equals() and hashCode() methods if I use my own objects as either a key in a Map or as a element in a Set.
+
+### Day 84
+• Read more about equals(), hashCode(), and Set interface.
