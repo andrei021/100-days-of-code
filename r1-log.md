@@ -584,3 +584,13 @@ Enter your choice
 
 ### Day 84
 • Read more about equals(), hashCode(), and Set interface.
+
+### Day 85
+• Learned about instanceof;
+
+• 1 CodeWars challenge done.
+
+### Day 86
+• Worked with some symmetric asymmetric sets;
+
+• Used sets bulk operations.
