@@ -586,7 +586,7 @@ Enter your choice
 • Read more about equals(), hashCode(), and Set interface.
 
 ### Day 85
-• Learned about instanceof;
+• Learned about instanceof method;
 
 • 1 CodeWars challenge done.
 
