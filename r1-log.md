@@ -594,3 +594,6 @@ Enter your choice
 • Worked with some symmetric asymmetric sets;
 
 • Used sets bulk operations.
+
+### Day 87
+• Started Set Challenge from my Java course on Udemy.
