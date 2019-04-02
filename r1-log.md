@@ -597,3 +597,8 @@ Enter your choice
 
 ### Day 87
 • Started Set Challenge from my Java course on Udemy.
+
+### Day 88
+• Worked on my challenge;
+
+• Learned how to use enum function.
