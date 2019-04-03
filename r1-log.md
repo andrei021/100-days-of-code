@@ -602,3 +602,6 @@ Enter your choice
 • Worked on my challenge;
 
 • Learned how to use enum function.
+
+### Day 89
+• Finished the challenge.
