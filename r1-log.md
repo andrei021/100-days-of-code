@@ -618,4 +618,4 @@ Enter your choice
 • Learned how to return a more secured unmodifiable map 😋
 
 ### Day 92
-• Worked on a challenge in my Udemy Java course.
+• Finished the last challenge of section 12 (Java Collections) in my Udemy Java course.
