@@ -619,3 +619,8 @@ Enter your choice
 
 ### Day 92
 • Finished the last challenge of section 12 (Java Collections) in my Udemy Java course.
+
+### Day 93
+• Started section 13(JavaFX) in my Java Masterclass course on udemy;
+
+• Learned how to configure my project in order to be able to use JavaFX libraries.
