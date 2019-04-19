@@ -624,3 +624,8 @@ Enter your choice
 • Started section 13(JavaFX) in my Java Masterclass course on udemy;
 
 • Learned how to configure my project in order to be able to use JavaFX libraries.
+
+### Day 94
+• Saw how a JavaFX program starts;
+
+• Wrote something in the window and understood why writing in FXML file is a better practice than writing UI code in main 👼
