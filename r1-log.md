@@ -629,3 +629,6 @@ Enter your choice
 • Saw how a JavaFX program starts;
 
 • Wrote something in the window and understood why writing in FXML file is a better practice than writing UI code in main 👼
+
+### Day 95
+• Started learning about GridPane layouts.
