@@ -632,3 +632,6 @@ Enter your choice
 
 ### Day 95
 • Started learning about GridPane layouts.
+
+### Day 96
+• Played around with Hbox layout.
