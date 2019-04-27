@@ -635,3 +635,6 @@ Enter your choice
 
 ### Day 96
 • Played around with Hbox layout.
+
+### Day 97
+• Tested other layouts.
