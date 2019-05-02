@@ -639,7 +639,7 @@ Enter your choice
 ### Day 97
 • Tested other layouts.
 
-• Redone some of my old projects in order to keep my skills sharpened  ⚡️
+• Wrote some of my old projects again in order to keep my skills sharpened  ⚡️
 
 ### Day 98
 • Downloaded some graphic java library and put some images beside the labels and buttons.
