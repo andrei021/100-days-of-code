@@ -643,3 +643,8 @@ Enter your choice
 
 ### Day 98
 • Downloaded some graphic java library and put some images beside the labels and buttons.
+
+### Day 99
+• Understood the difference between procedural and event driven programs;
+
+• Wrote an event handler, learned how to retrieve data from a text field and successfully made a program that shows some text when I click a button!! 🔱 I'm very satisfied and looking forward to learn more :smirk_cat:
