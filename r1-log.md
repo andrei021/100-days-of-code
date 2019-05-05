@@ -652,6 +652,6 @@ Enter your choice
 ### Day 100
 • Learned and played more with event handlers;
 
-• Looks like I finished my #100DaysOfCode Challenge, I really enjoyed it!!;
+• Looks like I finished my #100DaysOfCode Challenge, I really enjoyed it!!
 
 • Don't worry, I won't stop coding, see you in round 2 :bowtie:
