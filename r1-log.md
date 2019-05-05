@@ -648,3 +648,10 @@ Enter your choice
 • Understood the difference between procedural and event driven programs;
 
 • Wrote an event handler, learned how to retrieve data from a text field and successfully made a program that shows some text when I click a button!! 🔱 I'm very satisfied and looking forward to learn more :smirk_cat:
+
+### Day 100
+• Learned and played more with event handlers;
+
+• Looks like I finished my #100DaysOfCode Challenge, I really enjoyed it!!;
+
+• Don't worry, I won't stop coding, see you in round 2 :bowtie:
