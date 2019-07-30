@@ -6,6 +6,11 @@ Main course: Tim's Java Masterclass on Udemy
 
 ### BIG NEWS
 
+• First of all, I'm very excited to announce that I've gained entrance to Politehnical University of Bucharest and I'm going to study Computer Science.
+
+• Let's write some badass code and continue learning Java  :sunglasses:
+
 ## Log
 
 ### Day 1 
+•
